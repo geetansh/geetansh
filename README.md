@@ -2,6 +2,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=geetansh)
 
+![counter](https://enedy36ycnbz11v.m.pipedream.net)
+
 <!--
 **geetansh/geetansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
